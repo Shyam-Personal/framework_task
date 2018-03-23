@@ -1,0 +1,106 @@
+2018-03-23 23:40:24,587 - mylog - INFO - tc1
+2018-03-23 23:40:24,593 - mylog - INFO - 
+2018-03-23 23:40:24,597 - mylog - INFO - /home/log.c
+
+2018-03-23 23:40:24,602 - mylog - INFO - 
+2018-03-23 23:40:24,608 - mylog - INFO - /home/b.txt
+
+2018-03-23 23:40:24,608 - mylog - INFO - tc3
+2018-03-23 23:40:24,613 - mylog - INFO - 
+2018-03-23 23:40:24,616 - mylog - ERROR - ls: cannot access /home/log1.c: No such file or directory
+
+2018-03-23 23:40:24,620 - mylog - INFO - 
+2018-03-23 23:40:24,623 - mylog - INFO - /home/b.txt
+
+2018-03-23 23:40:24,624 - mylog - INFO - tc4
+2018-03-23 23:40:24,624 - mylog - ERROR - data to check/validate does not match with data to check
+2018-03-23 23:40:24,624 - mylog - INFO - tc2
+2018-03-23 23:42:21,910 - mylog - INFO - tc1
+2018-03-23 23:42:21,914 - mylog - INFO - 
+2018-03-23 23:42:21,918 - mylog - INFO - /home/log.c
+
+2018-03-23 23:42:21,923 - mylog - INFO - 
+2018-03-23 23:42:21,926 - mylog - INFO - /home/b.txt
+
+2018-03-23 23:42:21,927 - mylog - INFO - tc3
+2018-03-23 23:42:21,931 - mylog - INFO - 
+2018-03-23 23:42:21,935 - mylog - ERROR - ls: cannot access /home/log1.c: No such file or directory
+
+2018-03-23 23:42:21,939 - mylog - INFO - 
+2018-03-23 23:42:21,943 - mylog - INFO - /home/b.txt
+
+2018-03-23 23:42:21,943 - mylog - INFO - tc4
+2018-03-23 23:42:21,943 - mylog - ERROR - data to check/validate does not match with data to check
+2018-03-23 23:42:21,944 - mylog - INFO - tc2
+2018-03-23 23:42:45,880 - mylog - INFO - tc1
+2018-03-23 23:42:45,884 - mylog - INFO - 
+2018-03-23 23:42:45,889 - mylog - INFO - /home/log.c
+
+2018-03-23 23:42:45,893 - mylog - INFO - 
+2018-03-23 23:42:45,896 - mylog - INFO - /home/b.txt
+
+2018-03-23 23:42:45,897 - mylog - INFO - tc3
+2018-03-23 23:42:45,904 - mylog - INFO - 
+2018-03-23 23:42:45,908 - mylog - ERROR - ls: cannot access /home/log1.c: No such file or directory
+
+2018-03-23 23:42:45,911 - mylog - INFO - 
+2018-03-23 23:42:45,914 - mylog - INFO - /home/b.txt
+
+2018-03-23 23:42:45,915 - mylog - INFO - tc4
+2018-03-23 23:42:45,915 - mylog - ERROR - data to check/validate does not match with data to check
+2018-03-23 23:42:45,915 - mylog - INFO - tc2
+2018-03-23 23:42:55,750 - mylog - INFO - tc1
+2018-03-23 23:42:55,754 - mylog - INFO - 
+2018-03-23 23:42:55,758 - mylog - INFO - /home/log.c
+
+2018-03-23 23:42:55,762 - mylog - INFO - 
+2018-03-23 23:42:55,766 - mylog - INFO - /home/b.txt
+
+2018-03-23 23:42:55,766 - mylog - INFO - tc3
+2018-03-23 23:42:55,771 - mylog - INFO - 
+2018-03-23 23:42:55,776 - mylog - ERROR - ls: cannot access /home/log1.c: No such file or directory
+
+2018-03-23 23:42:55,780 - mylog - INFO - 
+2018-03-23 23:42:55,784 - mylog - INFO - /home/b.txt
+
+2018-03-23 23:42:55,784 - mylog - INFO - tc4
+2018-03-23 23:42:55,784 - mylog - ERROR - data to check/validate does not match with data to check
+2018-03-23 23:42:55,784 - mylog - INFO - tc2
+2018-03-23 23:52:14,891 - mylog - INFO - tc1
+2018-03-23 23:52:14,896 - mylog - INFO - b''
+2018-03-23 23:52:14,899 - mylog - INFO - b'/home/log.c\n'
+2018-03-23 23:52:14,903 - mylog - INFO - b''
+2018-03-23 23:52:14,906 - mylog - INFO - b'/home/b.txt\n'
+2018-03-23 23:52:14,906 - mylog - INFO - tc3
+2018-03-23 23:52:14,909 - mylog - INFO - b''
+2018-03-23 23:52:14,913 - mylog - ERROR - b'ls: cannot access /home/log1.c: No such file or directory\n'
+2018-03-23 23:52:14,917 - mylog - INFO - b''
+2018-03-23 23:52:14,920 - mylog - INFO - b'/home/b.txt\n'
+2018-03-23 23:52:14,920 - mylog - INFO - tc4
+2018-03-23 23:52:14,921 - mylog - ERROR - data to check/validate does not match with data to check
+2018-03-23 23:52:14,922 - mylog - INFO - tc2
+2018-03-23 23:53:55,680 - mylog - INFO - tc1
+2018-03-23 23:53:55,684 - mylog - INFO - b''
+2018-03-23 23:53:55,687 - mylog - INFO - b'/home/log.c\n'
+2018-03-23 23:53:55,692 - mylog - INFO - b''
+2018-03-23 23:53:55,696 - mylog - INFO - b'/home/b.txt\n'
+2018-03-23 23:53:55,696 - mylog - INFO - tc3
+2018-03-23 23:53:55,700 - mylog - INFO - b''
+2018-03-23 23:53:55,703 - mylog - ERROR - b'ls: cannot access /home/log1.c: No such file or directory\n'
+2018-03-23 23:53:55,708 - mylog - INFO - b''
+2018-03-23 23:53:55,711 - mylog - INFO - b'/home/b.txt\n'
+2018-03-23 23:53:55,712 - mylog - INFO - tc4
+2018-03-23 23:53:55,713 - mylog - ERROR - data to check/validate does not match with data to check
+2018-03-23 23:53:55,713 - mylog - INFO - tc2
+2018-03-23 23:54:32,373 - mylog - INFO - tc1
+2018-03-23 23:54:32,378 - mylog - INFO - b''
+2018-03-23 23:54:32,381 - mylog - INFO - b'/home/log.c\n'
+2018-03-23 23:54:32,386 - mylog - INFO - b''
+2018-03-23 23:54:32,391 - mylog - INFO - b'/home/b.txt\n'
+2018-03-23 23:54:32,392 - mylog - INFO - tc4
+2018-03-23 23:54:32,393 - mylog - ERROR - data to check/validate does not match with data to check
+2018-03-23 23:54:32,393 - mylog - INFO - tc2
+2018-03-23 23:54:32,394 - mylog - INFO - tc3
+2018-03-23 23:54:32,398 - mylog - ERROR - b'cp: cannot stat \xe2\x80\x98/mytestdata/log1.c\xe2\x80\x99: No such file or directory\n'
+2018-03-23 23:54:32,403 - mylog - INFO - b''
+2018-03-23 23:54:32,408 - mylog - INFO - b'/home/b.txt\n'

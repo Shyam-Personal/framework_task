@@ -1,0 +1,11 @@
+{
+"id" : "tc4",
+"name": "Test case 4",
+"description": "Description about the test case 4",
+"steps" : [
+			{
+			"file" : "test",
+			"expected" : "data to check"
+			}
+	]
+}

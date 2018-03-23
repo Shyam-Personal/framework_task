@@ -1,0 +1,15 @@
+{
+"id" : "tc1",
+"name": "Test case 1",
+"description": "Description about the test case1",
+"steps" : [
+			{
+			"cmd" : "cp /mytestdata/log.c /home",
+			"expected" : "ls /home/log.c"
+			},
+			{
+			"cmd" : "cp /mytestdata/b.txt /home",
+			"expected" : "ls /home/b.txt"
+			}
+	]
+}
